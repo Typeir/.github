@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: ''
+about: Report broken behavior, with replicable steps and proof.
 labels: bug
 ---
 

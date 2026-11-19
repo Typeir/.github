@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: ''
+about: Propose a change, with a fork that already implements it.
 labels: suggestion
 ---
 
