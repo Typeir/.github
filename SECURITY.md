@@ -20,4 +20,4 @@ And please check [CONTRIBUTING](./CONTRIBUTING.md)
 
 ## Disclosure
 
-Disclose what you find, as the [code of conduct](./CODE_OF_CONDUCT.md) dictates in the first few lines, follow the maxims
+Disclose what you find, as the [code of conduct](./CODE_OF_CONDUCT.md) dictates in the first few lines, follow the maxims etc. I'm not your dad, and you're the one risking the ban.
