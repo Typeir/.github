@@ -17,7 +17,6 @@ When I do [x], [y] happens instead of the expected [z], which causes the followi
 - Step 1: [step described mechanically, "open x" "click y"]
 - Step 2: [...]
 - ...
--
 
 ## Expected
 
