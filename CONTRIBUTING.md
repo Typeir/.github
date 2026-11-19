@@ -30,11 +30,11 @@ Follow the [CODE OF CONDUCT](./CODE_OF_CONDUCT.md)
 
 ## Pull Requests
 
-Don't create random Pull Requests, follow the [template](.github\PULL_REQUEST_TEMPLATE.md)
+Don't create random Pull Requests, follow the [template](.github/PULL_REQUEST_TEMPLATE.md)
 
 ## Style
 
-Follow the [template](.github\PULL_REQUEST_TEMPLATE.md) for PRs.
+Follow the [template](.github/PULL_REQUEST_TEMPLATE.md) for PRs.
 
 Don't use the forums as a chat.
 

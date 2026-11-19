@@ -2,9 +2,25 @@
 
 I think LLMs are the most important technology of the 21st century, potentially rivaling the invention of the internet.
 
-I do not agree with how the companies employed people in the global south to classify and label data for LLMs for miserable wages. I do not agree with how these companies treat the internet as a carte blanche to scrape, steal, copy and use other people's work, lives and information without their consent. I do not believe posting something immediately makes it morally or legally acceptable to copy, steal or use. I do not agree with how many of these companies ran supposedly charitable book scanning schemes to build LLMs, while simultaneously consistently suing and stomping on smaller entities for alleged copyright infringement. I do not agree with using LLMs to generate artistic facsimiles of other people's work, or using them to reduce headcount in any capacity. I do not agree with how these companies allow powerful public figures such as the president of the United States (47th president as of 2026) to use LLMs to generate propaganda and disinformation. I do not agree with the companies that own this software signing arms or defense contracts.
+I do not agree with how the companies employed people in the global south to classify and label data for LLMs for miserable wages.
 
-None of these companies have been transparent or virtuous about the process, but Pandora's box is open now, so all we can do is make peace with the existence of these machines and use them responsibly. I do not think the existence of LLMs is inherently bad, I'd argue the opposite. I do think the powers that be have been predictably irresponsible, unethical, and in some cases, outright evil regarding the development and deployment of LLMs.
+I do not agree with how these companies treat the internet as a carte blanche to scrape, steal, copy and use other people's work, lives and information without their consent.
+
+I do not believe posting something immediately makes it morally or legally acceptable to copy, steal or use.
+
+I do not agree with how many of these companies ran supposedly charitable book scanning schemes to build LLMs, while simultaneously consistently suing and stomping on smaller entities for alleged copyright infringement.
+
+I do not agree with using LLMs to generate artistic facsimiles of other people's work, or using them to reduce headcount in any capacity.
+
+I do not agree with how these companies allow powerful public figures such as the president of the United States (47th president as of 2026) to use LLMs to generate propaganda and disinformation.
+
+I do not agree with the companies that own this software signing arms or defense contracts.
+
+I do think the powers that be have been predictably irresponsible, unethical, and in some cases, outright evil regarding the development and deployment of LLMs.
+
+I do not think the existence of LLMs is inherently bad, I'd argue the opposite.
+
+None of these companies have been transparent or virtuous about the process, but Pandora's box is open now, so all we can do is make peace with the existence of these machines and use them responsibly.
 
 With all this said and laid out, I will be clear that I use LLMs in my work, and I want to be transparent about it. Like I said, I think it's an important, genuinely good technology, that is sadly constrained by the inherently unethical systems it exists in.
 
@@ -13,6 +29,8 @@ These are the providers I currently use, as of 2026:
 - Claude, by Anthropic.
 - DeepSeek, by DeepSeek (Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd.).
 - Qwen (many versions, primarily Qwen/Qwen3.8-27B) hosted on my own machine.
+
+I understand all of these companies are contributors to the list of problematic and outright evil actions I have mentioned.
 
 ## On terminology
 
@@ -30,7 +48,7 @@ Creating documentation, such as README files, inline comments, or usage guides. 
 
 Creating codemods to affect large codebases, such as [The Library Of Ikuisuus](https://github.com/Typeir/Ikuisuus), and [The Library Of Ikuisuus's Content](https://github.com/Typeir/Ikuisuus-Content). A common example is replacing a rule from the Tabletop RPG system across the entire thousand-ish file corpus of the library. I review the codemods and ensure they are correct and do not introduce unintended side effects or generated prose that is not authored by me.
 
-Reviewing, assisting and optimizing structured art such as 3D models or SVGs, in order to optimize them, but never to alter their shape on a whim. A common use case is performing bulk operations on designs made with UI design tools, for example, the size of all elements that fit a specific selector by a specific percentage, or increasing the concaveness of specific curves by a specific number, when traditional bulk selection tools fail.
+Reviewing, assisting and optimizing structured art such as 3D models or SVGs, in order to optimize them, but never to alter their shape on a whim. A common use case is performing bulk operations on designs made with UI design tools, for example, reducing the size of all elements that fit a specific selector by a specific percentage, or increasing the concaveness of specific curves by a specific number, when traditional bulk selection tools fail.
 
 Reviewing my writing for typos. Never for creative writing.
 
