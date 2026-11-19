@@ -60,7 +60,7 @@ I use LLMs for browsing and synthesizing the internet.
 
 I do not use LLMs to generate everything, and I do not endorse using them to generate everything. I do not use LLMs to generate the following:
 
-Artwork, whether it is 3D, 2D, digital, physical or otherwise. I do not believe diffusion pictures are anything beyond a funny toy. I do not believe in ex nihilo creation, and I do not think a diffusion model is capable of creating anything that is not derivative and frankly bad. You can toy with models for fun if you want, but they are a pathetic imitation of real art.
+Artwork, whether it is 3D, 2D, digital, physical or otherwise. I do not believe diffusion pictures are anything beyond a funny toy. I do not believe in ex nihilo creation, and I do not think a diffusion model is capable of creating anything that is not derivative and frankly bad, even if it resembles perfect technical prowess. You can toy with models for fun if you want, but they are a pathetic imitation of real art.
 
 Prose, poetry, or any other form of non-functional writing. I think good writing comes from the jaggedness of human experience. LLMs are aggregate models of expressed human experience, and as such their writing is a homogenized, uninteresting synthesis of what real writing is.
 
