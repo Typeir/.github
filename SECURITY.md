@@ -4,7 +4,7 @@ The security policies for all of my work are simple. Before using any of it, or 
 
 - [THE NVD](https://nvd.nist.gov)
 - [THE CVE](https://cve.org)
-- [THE CISA KVE](https://cisa.gov/known-exploited-vulnerabilities-catalog)
+- [THE CISA KEV](https://cisa.gov/known-exploited-vulnerabilities-catalog)
 
 Find anything active or weird? Don't use or contribute. If you contribute anything that shows up in any of these, you're banned for life.
 
