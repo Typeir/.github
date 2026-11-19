@@ -37,4 +37,4 @@ In spite of the previous statement, the following behavior is observed:
 
 ## Environment
 
-[Description of the environment, mahcine, IDE, to the maximum level of detail that doesn't include PPI or similar]
+[Description of the environment, machine, IDE, to the maximum level of detail that doesn't include PII or similar]
