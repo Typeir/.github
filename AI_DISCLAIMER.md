@@ -72,4 +72,4 @@ I try to review everything the LLMs make. Something might slip by, humans are no
 
 ## Contributions
 
-If you want to contribute to any of my work, if LLMs are used in any way it must be flagged. If you used LLMs in any of the ways I mentioned I do not use, I will immediately close your contribution. If you do it a second time, I will ban you for life from contributing to anything I make.
+If you want to contribute to any of my work, LLM usage must be flagged. If you used LLMs in any of the ways I mentioned I do not use, I will immediately close your contribution. If you do it a second time, I will ban you for life from contributing to anything I make.
