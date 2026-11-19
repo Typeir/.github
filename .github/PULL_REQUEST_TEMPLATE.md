@@ -15,7 +15,7 @@
 
 ## Checklist
 
-- [ ] I read the [CODE OF CONDUCT](../CODE_OF_CONDUCT.md), and [CONTRIBUTING GUIDE](../CONTRIBUTING.md)
+- [ ] I read the [CODE OF CONDUCT](https://github.com/Typeir/.github/blob/main/CODE_OF_CONDUCT.md) and [CONTRIBUTING GUIDE](https://github.com/Typeir/.github/blob/main/CONTRIBUTING.md)
 - [ ] All the tests ran, ensured no regressions
 - [ ] Out of scope functionalities unaffected by change
 - [ ] Changes do not introduce known vulnerabilities from the lookup sources
